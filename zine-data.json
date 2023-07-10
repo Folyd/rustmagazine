@@ -30,6 +30,11 @@
       "Summary Now Databend-Query is a rather large crate and we had to waste a lot of time on compiling and linking. It's time to split it up into a few relatively small crates. Related #4399",
       "https://opengraph.githubassets.com/855cd62b49753184fd23c301b3da40402c443696013761c9ec887426aea4e548/datafuselabs/databend/issues/6180"
     ],
+    "https://github.com/dtolnay/dyn-clone": [
+      "GitHub - dtolnay/dyn-clone: Clone trait that is object-safe",
+      "Clone trait that is object-safe. Contribute to dtolnay/dyn-clone development by creating an account on GitHub.",
+      "https://opengraph.githubassets.com/5eee11ff1afbd8f425b0376a6c4face967e7123e61d33bb835db137a15be4b91/dtolnay/dyn-clone"
+    ],
     "https://github.com/egraphs-good/egg": [
       "GitHub - egraphs-good/egg: egg is a flexible, high-performance e-graph library",
       "egg is a flexible, high-performance e-graph library - GitHub - egraphs-good/egg: egg is a flexible, high-performance e-graph library",

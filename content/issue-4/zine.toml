@@ -22,3 +22,12 @@ topic = ["interview"]
 pub_date = "2023-05-27"
 publish = true
 featured = true
+
+[[article]]
+file = "dyn-clone.md"
+title = "What is dyn clone?"
+author = "folyd"
+topic = ["tutorial"]
+pub_date = "2023-07-09"
+publish = true
+featured = true
