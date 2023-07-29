@@ -22,3 +22,12 @@ topic = ["interview"]
 pub_date = "2023-05-27"
 publish = true
 featured = true
+
+[[article]]
+file = "rust-pin-advanced.md"
+title = "Rust Pin in advanced"
+author = "folyd"
+topic = ["tutorial"]
+pub_date = "2023-07-27"
+publish = false
+featured = true
